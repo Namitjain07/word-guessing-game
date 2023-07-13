@@ -33,8 +33,8 @@ To play the game, you will need Python installed on your system. You can downloa
 
 The game requires the following dependencies:
 
-- 'random': A built-in module in Python used for generating random numbers.
-- 'requests': A Python library used for making HTTP requests.
+- random: A built-in module in Python used for generating random numbers.
+- requests: A Python library used for making HTTP requests.
 
 You can install the requests library using pip:
 ```python
