@@ -19,9 +19,7 @@ To play the game, you will need Python installed on your system. You can downloa
 
    ```shell
    python game.py
-
-
-
+   
 1. The game will display underscores (_) representing each letter of the word to be guessed.
 2. Enter your guess by typing the word and pressing Enter.
 3. If your guess is incorrect, the game will provide feedback by revealing the correctly guessed letters.
