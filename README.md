@@ -44,30 +44,30 @@ pip install requests
 
 The game uses a predefined list of words to choose from. Here are some examples:
 
-~~    Abuse
-    Adult
-    Agent
-    Anger
-    Apple
-    Award
-    Basis
-    Beach
-    Birth
-    Block
-    Blood
-    Board
-    Brain
-    Bread
-    Break
-    Brown
-    Buyer
-    Cause
-    Chain
-    Chair
-    Chest
-    Chief
-    Child
-    China
+- Abuse
+- Adult
+- Agent
+- Anger
+- Apple
+- Award
+- Basis
+- Beach
+- Birth
+- Block
+- Blood
+- Board
+- Brain
+- Bread
+- Break
+- Brown
+- Buyer
+- Cause
+- Chain
+- Chair
+- Chest
+- Chief
+- Child
+- China
     Claim
     Class
     Clock
@@ -95,4 +95,4 @@ The game uses a predefined list of words to choose from. Here are some examples:
     Enemy
     Entry
 
-    ~~
+    
